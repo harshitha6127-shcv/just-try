@@ -1,0 +1,6 @@
+{
+  "name": "Team Hub",
+  "description": "Local-first modern team workspace with project workflows, drag-and-drop Kanban board, tasks, encrypted password vault, and backup management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
